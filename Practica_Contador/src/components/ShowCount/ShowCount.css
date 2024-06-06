@@ -1,0 +1,35 @@
+h1{
+  font-size: 30px;
+  margin-bottom: 50px;
+}
+
+button {
+  border-radius: 8px;
+  border: 1px solid transparent;
+  padding: 0.6em 1.2em;
+  font-size: 1em;
+  font-weight: 500;
+  font-family: inherit;
+  cursor: pointer;
+  transition: border-color 0.25s;
+}
+
+.btn-sumar {
+  background-color: #7bff64;
+  margin-right: 20px;
+  outline: 0;
+}
+.btn-sumar:hover {
+  border-color: black;
+  background-color: #308d20;
+}
+
+
+.btn-restar {
+  background-color: #fe7171b7;
+  outline: 0;
+}
+.btn-restar:hover {
+  border-color: black;
+  background-color: #fd0808;
+}
